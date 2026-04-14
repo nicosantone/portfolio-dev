@@ -80,7 +80,7 @@ export const translations = {
         id: 2,
         title: "Scouter",
         subtitle: "Proyecto grupal",
-        description: "Web de scouting de rugby con estadísticas de jugadores.", 
+        description: "Web de scouting de rugby con estadísticas de jugadores, en colaboración con Nahuel Delménico y Nicolás Escolar.", 
         date: "Nov 2025",
       },
       {
@@ -203,7 +203,7 @@ export const translations = {
         id: 2,
         title: "Scouter",
         subtitle: "Team project",
-        description: "Rugby scouting platform with player statistics.",
+        description: "Rugby scouting platform with player statistics, in collaboration with Nahuel Delménico and Nicolás Escolar.",
         date: "Nov 2025",
       },
       {
