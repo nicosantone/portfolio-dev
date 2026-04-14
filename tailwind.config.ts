@@ -1,0 +1,23 @@
+import type { Config } from "tailwindcss";
+
+const config: Config = {
+  content: [
+    "./app/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+         colors: {
+            "secondary": "#F5741c",
+            "darkBG": 131424,
+    },
+    backgroundImage: {
+      "gradient-cover":
+      "linear-gradient(90.21deg, rgba(70, 54, 124, 0.5) -5.91%, rgba(74, 47, 189, 0.5) 111.58%)",
+    },
+  },
+    },
+  plugins: [],
+};
+
+export default config;
