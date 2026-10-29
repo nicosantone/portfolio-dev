@@ -172,7 +172,7 @@ export const dataPortfolio = [
     {
         id: 1,
         title: "RateMyAlbum",
-        image: "/ratemyalbum4.jpg",
+        image: "/rma-home2.png",
         urlGithub: "https://github.com/nicosantone/album-vibe",
         //urlDemo: "https://rate-my-album.vercel.app/",
     },

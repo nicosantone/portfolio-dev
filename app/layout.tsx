@@ -2,8 +2,11 @@ import type { Metadata } from "next";
 import { Urbanist } from "next/font/google";
 
 import "./globals.css";
+// @ts-ignore Swiper CSS is bundled at runtime and does not provide TypeScript declarations.
 import "swiper/css";
+// @ts-ignore Swiper CSS is bundled at runtime and does not provide TypeScript declarations.
 import "swiper/css/pagination";
+// @ts-ignore Swiper CSS is bundled at runtime and does not provide TypeScript declarations.
 import "swiper/css/scrollbar";
 
 import NavBar from "@/components/navbar";
