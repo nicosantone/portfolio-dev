@@ -303,6 +303,8 @@ import {
 
 import { FaJava, FaCss3 } from "react-icons/fa";
 
+import { TanstackIcon } from "@dev.icons/react";
+
 export const skillsData = [
 { id: 1, icon: <SiReact color="#61DAFB" />, name: "React" },
 { id: 2, icon: <SiJavascript color="#F7DF1E" />, name: "JavaScript" },
@@ -321,5 +323,6 @@ export const skillsData = [
 { id: 12, icon: <FaCss3 color="#1572B6" />, name: "CSS3" },
 { id: 13, icon: <SiPhp color="#777BB4" />, name: "PHP" },
 { id: 14, icon: <SiLaravel color="#FF2D20" />, name: "Laravel" },
+{ id: 15, icon: <TanstackIcon />, name: "TanStack Start" },
 
 ];
